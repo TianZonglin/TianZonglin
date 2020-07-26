@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-![](https://cdn.jsdelivr.net/gh/TianZonglin/tuchuang/img/FlashyAbandonedAfghanhound-size_restricted.gif)
+
 
 ![](https://github-readme-stats.vercel.app/api?username=TianZonglin&show_icons=true&hide=[%22issues%22])
 
