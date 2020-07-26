@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=TianZonglin&show_icons=true&hide=[%22issues%22])
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianZonglin&hide=html)
 
 
 
