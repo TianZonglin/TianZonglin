@@ -6,8 +6,6 @@
 Here are some ideas to get you started:
 
 
--->
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
+
+![](https://cdn.jsdelivr.net/gh/TianZonglin/tuchuang/img/20200726141342.png)
 
 
 
