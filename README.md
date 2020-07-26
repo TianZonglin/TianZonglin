@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-![](https://cdn.jsdelivr.net/gh/TianZonglin/tuchuang/img/SleepyJointGrison-size_restricted.gif)
+![](https://cdn.jsdelivr.net/gh/TianZonglin/tuchuang/img/FlashyAbandonedAfghanhound-size_restricted.gif)
+
 
 
 
