@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 
 ✋ Hi there! 
 
-![](https://cdn.jsdelivr.net/gh/TianZonglin/GitHub-Stats@latest/generated/overview.svg)
-![](https://cdn.jsdelivr.net/gh/TianZonglin/GitHub-Stats@latest/generated/languages.svg)
-
+![](https://raw.githubusercontent.com/TianZonglin/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/TianZonglin/github-stats/master/generated/languages.svg#gh-light-mode-only)
